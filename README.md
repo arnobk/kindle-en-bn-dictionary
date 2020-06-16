@@ -1,3 +1,4 @@
+[![Github All Releases](https://img.shields.io/github/downloads/arnobk/kindle-en-bn-dictionary/total.svg)]()
 # English to Bangla Dictionary for Amazon Kindle
 
 ## Why I Made This Dictionary
