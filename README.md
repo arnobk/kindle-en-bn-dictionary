@@ -11,8 +11,11 @@ When I got my first kindle on my hand, I tried to find an English to Bengali/Ban
 - Copy the extracted file to your kindle's *Documents > Dictionary* folder.
 - Now open your Kindle Setting on your device and from dictionary choose the new dictionary you just installed!
 
+## Bugs
+- I know there is a broken font problem on dictionary. But I can't to anything with that. This is how Kindle renders Bangla Fonts.
+
 ## Updates
 ~~I will try to update this dictionary atleast once in three months with new words and corrections.~~
 
-## Support
+## Device Support
 This dictionary is tested with *All New Kindle Basic 10th Generation*. This should also work with any other kindle. Please let me know if you face any problem. Thank You! 
